@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/00.myProjects"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/01.serialMonitor"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/02.storingData"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/03.binarySelection"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/04.digitalWrite_digitalRead"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/05.analogueRead"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/06.loopLogic"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/07.pulseWidthModulation"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/08.mathComputation"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/09.workingWithTime"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/10.servoMotor"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/11.ultrasonicSensor"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/12.motorFundamentals"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/13.structuringFunctions"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/14.I2C"
+		},
+		{
+			"path": "../../../2026CT_Arduino_Bootcamp_Dan.O/15.OPP-Object_Oriented_Programming"
+		}
+	]
+}

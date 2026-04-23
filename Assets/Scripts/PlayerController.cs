@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
  public TextMeshProUGUI countText;
  public GameObject winTextObject;
 
+
  private Rigidbody rb; 
  private int count;
  private float movementX;
@@ -65,4 +66,13 @@ public class PlayerController : MonoBehaviour
             SetCountText();
         }
     } 
+
+    public void Launch(Vector3 direction, float force)
+    {
+        if (rb == null) return;
+
+        rb.linearVelocity = Vector3.zero; // optional: makes bounce consistent
+        rb.AddForce(direction * force, ForceMode.VelocityChange);
+    }
+
 }

@@ -9,6 +9,7 @@ public class Respawn : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R))
         {
             transform.position = teleportTarget.position;
+
         }
     }
 }
